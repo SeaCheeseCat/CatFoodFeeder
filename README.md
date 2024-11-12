@@ -1,3 +1,9 @@
-![c9b07b9827c6cadf50e520570939a394](https://github.com/user-attachments/assets/37ef5906-0e52-4904-8a68-cef3e7fd3737)
+自己写的一个小项目，主要用了四个模块，ESP8266，SG90，显示屏，称重模块，核心板用的ArduinoUNO
 
-![Uploading bee3a1d6d40e704871518bcfa115e2fc.jpg…]()
+实现了上位机的数据收发
+
+还在完善中....
+
+![arduino](Document\Item\arduino.jpg)
+
+![android](Document\Item\android.jpg)
